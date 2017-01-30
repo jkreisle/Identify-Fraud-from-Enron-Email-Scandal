@@ -4,13 +4,13 @@ Identify features to use with machine learning in order to predict persons of in
 
 ###Skills applied
 
-- Python
-- Sklearn
-  - KNeighbors
-  - AdaBoost
-  - GaussianNB
-  - DecisionTree
-  - RandomForest
+    - Python
+    - Sklearn:
+      - KNeighbors
+      - AdaBoost
+      - GaussianNB
+      - DecisionTree
+      - RandomForest
 
 ## Summary
 
